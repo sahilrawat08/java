@@ -7,7 +7,7 @@ console.log(nam);
 
 const product={
 
-    title:"ball point piere cardin ",
+    title:"ba",
     rating:4,
     deal:5,
     price:250,
